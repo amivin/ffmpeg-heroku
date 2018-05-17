@@ -1,9 +1,7 @@
-# heroku-buildpack-ffmpeg-latest
-
-[![CircleCI](https://circleci.com/gh/jonathanong/heroku-buildpack-ffmpeg-latest/tree/master.svg?style=svg)](https://circleci.com/gh/jonathanong/heroku-buildpack-ffmpeg-latest/tree/master)
+# ffmpeg-heroku
 
 A Heroku buildpack for ffmpeg that always downloads the latest static build.
-Unlike other build packs, I never compile anything.
+Unlike other build packs, I never compile anything and remove this git.
 
 ## Usage
 
